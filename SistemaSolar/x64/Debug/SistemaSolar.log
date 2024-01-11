@@ -1,0 +1,12 @@
+﻿  SistemaSolar.cpp
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\include\shader_m.h(58,40): warning C4101: 'e': unreferenced local variable
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\include\mesh.h(84,50): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(284,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(843,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(844,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(848,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(849,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(851,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(852,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(860,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SistemaSolar.vcxproj -> C:\Users\pmpb7\source\repos\SistemaSolar\x64\Debug\SistemaSolar.exe

@@ -1,0 +1,34 @@
+﻿  glad.c
+  SistemaSolar.cpp
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\include\shader_m.h(58,40): warning C4101: 'e': unreferenced local variable
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(289,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(811,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(812,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(816,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(817,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(819,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(820,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\pmpb7\source\repos\SistemaSolar\SistemaSolar\SistemaSolar.cpp(828,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwTerminate referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwCreateWindow referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwWindowShouldClose referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwSetWindowShouldClose referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwSetFramebufferSizeCallback referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwPollEvents referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwSetInputMode referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwGetKey referenced in function "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPAUGLFWwindow@@@Z)
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwSetCursorPosCallback referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwSetScrollCallback referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwGetTime referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwMakeContextCurrent referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwSwapBuffers referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol _glfwGetProcAddress referenced in function _main
+SistemaSolar.obj : error LNK2019: unresolved external symbol "public: __thiscall Assimp::Importer::Importer(void)" (??0Importer@Assimp@@QAE@XZ) referenced in function "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+SistemaSolar.obj : error LNK2019: unresolved external symbol "public: __thiscall Assimp::Importer::~Importer(void)" (??1Importer@Assimp@@QAE@XZ) referenced in function "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+SistemaSolar.obj : error LNK2019: unresolved external symbol "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(char const *,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@PBDI@Z) referenced in function "public: struct aiScene const * __thiscall Assimp::Importer::ReadFile(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,unsigned int)" (?ReadFile@Importer@Assimp@@QAEPBUaiScene@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@I@Z)
+SistemaSolar.obj : error LNK2019: unresolved external symbol "public: char const * __thiscall Assimp::Importer::GetErrorString(void)const " (?GetErrorString@Importer@Assimp@@QBEPBDXZ) referenced in function "private: void __thiscall Model::loadModel(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?loadModel@Model@@AAEXABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+SistemaSolar.obj : error LNK2019: unresolved external symbol _aiGetMaterialTextureCount referenced in function "public: unsigned int __thiscall aiMaterial::GetTextureCount(enum aiTextureType)const " (?GetTextureCount@aiMaterial@@QBEIW4aiTextureType@@@Z)
+SistemaSolar.obj : error LNK2019: unresolved external symbol _aiGetMaterialTexture referenced in function "public: enum aiReturn __thiscall aiMaterial::GetTexture(enum aiTextureType,unsigned int,struct aiString *,enum aiTextureMapping *,unsigned int *,float *,enum aiTextureOp *,enum aiTextureMapMode *)const " (?GetTexture@aiMaterial@@QBE?AW4aiReturn@@W4aiTextureType@@IPAUaiString@@PAW4aiTextureMapping@@PAIPAMPAW4aiTextureOp@@PAW4aiTextureMapMode@@@Z)
+C:\Users\pmpb7\source\repos\SistemaSolar\Debug\SistemaSolar.exe : fatal error LNK1120: 22 unresolved externals
